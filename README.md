@@ -20,7 +20,20 @@ Its capabilities:
 
 ***That's all the functionality for now, more updates soon :)*** 
 
+Tutorial for launch the bot:
 
+ 1. Get bot token from @BotFather
+ 2. Insert your token in line 10 in quotes
+ 3. Run bot
+ 4. In chat write /start to start bot
+
+
+How to add moder/admin:
+
+ - Find out your ID in the bot @my_id_bot
+ - Insert in lines 18, 19 id:
+ - If you want to become an admin, insert in line 18
+ - If moderator - insert in 19
 
 **TODO**:
 
