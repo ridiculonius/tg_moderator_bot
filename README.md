@@ -39,3 +39,5 @@ How to add moder/admin:
 
  - [ ] Make a system of temporary bans
  - [ ] Add bot message design
+ - [ ] Command to add moderators and admins
+
